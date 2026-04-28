@@ -1,0 +1,24 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "title": "Paid Campaigns",
+      "body": "At Weboin digital marketing agency we use our extensive data integration and advanced AI for digital marketing to run paid ad campaigns that target users highly relevant to your business to boost conversion and engagement."
+    },
+    {
+      "id": 2,
+      "title": "SEO Optimization",
+      "body": "We craft data-driven SEO strategies that put your brand at the top of search results."
+    },
+    {
+      "id": 3,
+      "title": "Social Media",
+      "body": "Our social media experts build authentic brand presence across all major platforms. We create compelling content and community strategies that turn followers into loyal customers."
+    }
+  ],
+  "about": {
+    "heading": "We provide the best\nservice for you",
+    "subtext": "From cost-effective digital marketing strategies...",
+    "description": "Weboin digital marketing agency is one of the fastest-growing...authentic brand presence across all major platforms. We create compelling content and community strategies that turn followers into loyal customers."
+  }
+}
